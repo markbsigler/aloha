@@ -1,7 +1,7 @@
 /* Aloha.java
  */
 
-public class aloha
+public class Aloha
 {
 	public static void main(String[] args) {
 		System.out.println("Aloha!");
